@@ -5,11 +5,11 @@
 ## I'm a Husband, Developer, Gamer and Curious!
 
 - 💻 I’ve been working on [AttHistory](https://github.com/Mata-L/AttHistory)
-- 🎨 I’m currently mastering my **Vanilla CSS and HTML** skills
-- ♟️ Ask me about **logical thinking**
+- 🎨 I’m currently mastering **Vanilla CSS and HTML** skills
+- ♟️ Ask me about **Logical thinking**
 - 📫 Reach me at **lu4n@live.com**
-- 🔭 2022 Goals **Get an opportunity of work coding**
-- ⚡ Fun fact: **I have ADHD and I'm a multitasker**
+- 🔭 2022 goal is **Getting an opportunity of work coding**
+- ⚡ Fun fact is **I have ADHD and I'm a multitasker**
 
 ## Connect with me
 
