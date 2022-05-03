@@ -4,7 +4,7 @@
 
 ## I'm a husband, developer, gamer and curious!
 
-- 💻 I’ve been working on [AttHistory](https://github.com/Mata-L/AttHistory)
+- 💻 I’ve been working on [Feedget](https://github.com/Mata-L/Feedget)
 - 🎨 I’m currently mastering my **Vue JS and CSS** skills
 - ♟️ Ask me about **Logical thinking**
 - 📬 Reach me at **lu4n@live.com**
