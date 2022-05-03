@@ -5,8 +5,8 @@
 ## I'm a husband, developer, gamer and curious!
 
 - 💻 I’ve been working on [Feedget](https://github.com/Mata-L/Feedget)
-- 🎨 I’m currently mastering my **Vue JS and CSS** skills
-- ♟️ Ask me about **Logical thinking**
+- 🎨 I’m currently mastering **Vue JS and CSS**
+- ♟️ Ask me about **logical thinking**
 - 📬 Reach me at **lu4n@live.com**
 - 🔭 2022 goal: **work as front-end developer**
 - ⚡ Fun fact: **I have ADD and I'm a multitasker**
